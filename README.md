@@ -12,8 +12,8 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc)](https://github.com/gsb-ustc/github-readme-stats)
+<div align="center"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact)](https://github.com/gsb-ustc/github-readme-stats)
 </p>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
