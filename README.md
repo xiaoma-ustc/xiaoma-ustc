@@ -40,7 +40,7 @@
 
 ---
 
-- Email: [![Email](https://img.shields.io/badge/-948324533%40qq.com-yellow?style=flat-square&logoColor=white)
+- Email: ![Email](https://img.shields.io/badge/-948324533%40qq.com-yellow?style=flat-square&logo=tencentqq&logoColor=white)
 - QQ: ![QQ](https://img.shields.io/badge/-948324533-blue?style=flat-square&logo=tencentqq&logoColor=white)
 
 ----------
