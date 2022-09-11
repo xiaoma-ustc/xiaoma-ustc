@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=7736F7&background=FFFFFF00&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+Xiaoma;I'm+studying+Data+Science+in+USTC;I'm+interested+in+software+development%2C+Embedded+development)](https://git.io/typing-svg)
+
+---
+
 <img src="https://profile-counter.glitch.me/{gsb-ustc}/count.svg" alt="gsb-ustc :: Visitor's Count" /></p>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -17,7 +21,6 @@
 </p> 
 
 
-
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -30,5 +33,7 @@
 ![PyTorch](http://img.shields.io/badge/PyTorch-f58220?style=flat&logo=pytorch&logoColor=ffffff)
 ![Latex](https://img.shields.io/badge/Latex-black?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+---
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=gsb-ustc&theme=xcode" /> </div>
