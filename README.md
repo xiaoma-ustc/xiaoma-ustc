@@ -36,3 +36,11 @@
 ---
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=gsb-ustc&theme=xcode" /> </div>
+
+
+---
+
+- Email: [![Email](https://img.shields.io/badge/-948324533%40qq.com-yellow)
+- QQ: ![QQ](https://img.shields.io/badge/-948324533-blue)
+
+----------
