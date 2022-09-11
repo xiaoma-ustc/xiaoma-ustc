@@ -20,7 +20,6 @@
 
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-00DB00?style=flat&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626?style=flat&logo=Jupyter&logoColor=white)
