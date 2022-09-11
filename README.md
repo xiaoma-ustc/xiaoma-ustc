@@ -1,3 +1,3 @@
-# gsb_ustc
+# gsb-ustc
  
 I'm here
