@@ -12,7 +12,7 @@
 
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=53,48,59,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&hide_title=true&hide_border=false&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=53,48,59,c64dff&theme=graywhite" /> </div>
 </p>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
