@@ -24,7 +24,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-00DB00?style=flat&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0072E3?style=flat&logo=wireshark&logoColor=ffffff)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
