@@ -6,9 +6,9 @@
 
 
 ---
-
+<img width="30%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/xiaoma.png" />
 <div align="center"> <img src="https://metrics.lecoq.io/gsb-ustc?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<img width="35%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/xiaoma.png" />
+
 
 ---
 
