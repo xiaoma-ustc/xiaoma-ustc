@@ -35,6 +35,10 @@
 
 ---
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/gsb-ustc/gsb-ustc/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+---
+
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=gsb-ustc&theme=xcode" /> </div>
 
 
