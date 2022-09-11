@@ -47,6 +47,17 @@
 
 ---
 
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
 - Email: ![Email](https://img.shields.io/badge/-948324533%40qq.com-yellow?style=flat-square&logo=tencentqq&logoColor=white)
 - QQ: ![QQ](https://img.shields.io/badge/-948324533-blue?style=flat-square&logo=tencentqq&logoColor=white)
 
