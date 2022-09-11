@@ -32,7 +32,10 @@
 ![PyTorch](http://img.shields.io/badge/PyTorch-f58220?style=flat&logo=pytorch&logoColor=ffffff)
 ![Latex](https://img.shields.io/badge/Latex-black?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ---
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/gsb-ustc/gsb-ustc/contribution-snake/github-contribution-grid-snake.svg" /></div>
