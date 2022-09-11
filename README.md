@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=dark" alt="xiaoma's Public Github Stats">
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=0ff&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 </p>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
