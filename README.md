@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=7&hide=Jupyter%20Notebook&theme=dark" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=5&hide=Jupyter%20Notebook&theme=dark" >
 </p> 
 
 
