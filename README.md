@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=dark" alt="xiaoma's Public Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8&hide=Jupyter%40Notebook&theme=dark" alt="xiaoma's Public Github Stats">
 </p>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
