@@ -12,7 +12,7 @@
 
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&hide_title=false&hide_border=false&layout=compact&langs_count=6&text_color=005&icon_color=0ff&bg_color=53,48,59,c64df0&theme=dark" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&hide_title=false&hide_border=false&layout=compact&langs_count=6&text_color=005&icon_color=fff&bg_color=53,48,59,c64dff&theme=dark" /> </div>
 </p>  
 
 
