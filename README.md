@@ -3,7 +3,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <div align="center"> <img src="https://metrics.lecoq.io/gsb-ustc?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
 
 
 
