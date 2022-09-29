@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=7736F7&background=FFFFFF00&multiline=true&width=800&height=95&lines=Hello%2C+I'm+Xiaoma;I'm+studying+Data+Science+in+USTC;I'm+interested+in+software+development+and+embedded+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=7736F7&background=FFFFFF00&multiline=true&width=800&height=95&lines=Hi there%2C+I'm+Xiaoma;I'm+studying+Data+Science+in+USTC;I'm+interested+in+software+development+and+embedded+development)](https://git.io/typing-svg)
 
 ---
 
