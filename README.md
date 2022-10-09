@@ -63,6 +63,6 @@
 
 💪If you are interested in [Neuroscience](https://ykln0419.github.io)
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:Links-->
 
 ---
