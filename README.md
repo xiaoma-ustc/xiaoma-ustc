@@ -39,7 +39,7 @@
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ---
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/gsb-ustc/gsb-ustc/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 
 
 ![](https://raw.githubusercontent.com/gsb-ustc/gsb-ustc/main/assets/github-contribution-grid-snake.svg)
