@@ -51,7 +51,7 @@
 
 
 ---
-
+**Contact Me**
 
 
 - Email: ![Email](https://img.shields.io/badge/-948324533%40qq.com-yellow?style=flat-square&logo=tencentqq&logoColor=white)
@@ -61,7 +61,7 @@
 
 **Links**
 
-💪If you are interested in [Neuroscience](https://ykln0419.github.io)
+💪If you are interested in Neuroscience, you can also follow my friend [Kunlun](https://ykln0419.github.io)
 
 
 
