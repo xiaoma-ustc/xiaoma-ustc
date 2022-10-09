@@ -19,8 +19,9 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
 </p> 
+<p align="center">
 ![](https://raw.githubusercontent.com/gsb-ustc/gsb-ustc/main/assets/github-contribution-grid-snake.svg)
-
+</p> 
 
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
