@@ -7,6 +7,8 @@
 
 ---
 
+
+<img width="30%" align="left" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/xiaoma.png" />
 <img width="30%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
 
 
