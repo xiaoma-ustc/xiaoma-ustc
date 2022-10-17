@@ -5,7 +5,6 @@
 <img src="https://profile-counter.glitch.me/{gsb-ustc}/count.svg" alt="gsb-ustc :: Visitor's Count" /></p>
 
 
----
 
 
 <!-- <img width="30%" align="left" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/xiaoma.png" /> -->
@@ -13,7 +12,6 @@
 
 
 
----
 <p align="center">
 <div align="left"> <img src="https://metrics.lecoq.io/gsb-ustc?template=classic&config.timezone=Asia%2FShanghai"> </div>
 </p> 
