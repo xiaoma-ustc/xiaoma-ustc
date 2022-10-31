@@ -16,7 +16,7 @@
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc&show_icons=true" >
 
-<img width="40%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
+<img width="35%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
 </p>
@@ -24,9 +24,7 @@
 
 ---
 
-<p align="center">
-
-</p>
+## Languages and Tools:
 
 
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
@@ -45,9 +43,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+
 ---
 
-
+## My GitHub Contributions
 
 
 ![](https://raw.githubusercontent.com/gsb-ustc/gsb-ustc/main/assets/github-contribution-grid-snake.svg)
@@ -59,7 +58,7 @@
 
 
 ---
-**Contact Me**
+## Contact Me
 
 
 - Email: ![Email](https://img.shields.io/badge/-948324533%40qq.com-yellow?style=flat-square&logo=tencentqq&logoColor=white)
@@ -67,7 +66,7 @@
 
 ----------
 
-**Links**
+## Links
 
 💪If you are interested in Neuroscience, you can also follow my friend [Kunlun](https://ykln0419.github.io)
 
