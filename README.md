@@ -27,7 +27,6 @@
 
 </div>
 
-<img width="25%" align="center" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/xiaoma.png" />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark)
   
