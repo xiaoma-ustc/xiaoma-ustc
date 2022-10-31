@@ -27,7 +27,7 @@
 
 <p align="center">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
   
 <img width="30%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/xiaoma.png" />
 </p>
