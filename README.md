@@ -4,15 +4,13 @@
 
 <img src="https://profile-counter.glitch.me/{gsb-ustc}/count.svg" alt="gsb-ustc :: Visitor's Count" /></p>
 
-<img width="50%" align="center" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
 
 
-<p align="center">
+
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc&show_icons=true" >
 
-</p>
-
+<img width="30%" align="center" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
 
 
 
@@ -31,7 +29,7 @@
 
 
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark)
   
 
 
