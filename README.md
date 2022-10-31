@@ -12,7 +12,7 @@
 
 
 
-<p align="left">
+
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc&show_icons=true" >
 
@@ -20,7 +20,7 @@
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
   
-</p>
+
 
 <p align="center">
   
