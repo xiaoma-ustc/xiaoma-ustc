@@ -4,7 +4,7 @@
 
 <img src="https://profile-counter.glitch.me/{gsb-ustc}/count.svg" alt="gsb-ustc :: Visitor's Count" /></p>
 
-
+<img width="50%" align="center" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 
 
-<img width="30%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
+
 
 
 
