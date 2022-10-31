@@ -26,9 +26,6 @@
 
 
 
-<p align="center">
-
-</p> 
 
 
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
