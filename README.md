@@ -22,14 +22,14 @@
   
 
 
-<p align="center">
+
   
-</p>
+
 
 ---
 
 ## Languages and Tools:
-
+<p align="center">
 
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
@@ -47,6 +47,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+  
+</p>
 
 ---
 
