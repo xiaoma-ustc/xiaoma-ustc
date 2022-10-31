@@ -15,10 +15,10 @@
 
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc&show_icons=true" >
-<img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
+
 <img width="35%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
   
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
   
 
 
@@ -27,6 +27,14 @@
 
   
 </p>
+
+---
+
+## My GitHub Contributions
+
+
+![](https://raw.githubusercontent.com/gsb-ustc/gsb-ustc/main/assets/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -54,13 +62,7 @@
 
 ---
 
-## My GitHub Contributions
 
-
-![](https://raw.githubusercontent.com/gsb-ustc/gsb-ustc/main/assets/github-contribution-grid-snake.svg)
-
-
----
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=gsb-ustc&theme=xcode" /> </div>
 
