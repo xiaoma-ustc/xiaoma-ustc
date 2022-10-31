@@ -18,18 +18,20 @@
 
 <img width="35%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
-  
-
-
 
   
 
+
+<p align="center">
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
+  
+</p>
 
 ---
 
 ## Languages and Tools:
-<p align="center">
+
 
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
@@ -48,7 +50,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
   
-</p>
+
 
 ---
 
