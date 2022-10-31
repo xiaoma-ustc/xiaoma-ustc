@@ -15,7 +15,7 @@
 
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc&show_icons=true" >
-
+<img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
 <img width="35%" align="right" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
   
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   
-<img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsb-ustc&layout=compact&langs_count=8%20Notebook&theme=dark" >
+
   
 </p>
 
