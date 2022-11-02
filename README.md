@@ -8,7 +8,7 @@
 
 
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc" >
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gsb-ustc&show_icons=true" >
 
 <img width="25%" align="center" alt="Github" src="https://github.com/gsb-ustc/gsb-ustc/blob/main/img2.png" />
 
