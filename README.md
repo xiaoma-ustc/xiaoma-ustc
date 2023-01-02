@@ -28,7 +28,7 @@
 </div>
 
   
-![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoma-ustc&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=dark" alt="Xiaoma's Public Github Stats))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoma-ustc&layout=compact&langs_count=8%20Notebook&theme=dark)
   
 
 
