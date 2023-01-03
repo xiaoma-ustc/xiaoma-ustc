@@ -60,13 +60,15 @@
 
 ---
 
+## My GitHub Contributions
 
 
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xiaoma-ustc&theme=xcode" /> </div>
+![](https://raw.githubusercontent.com/xiaoma-ustc/xiaoma-ustc/main/assets/github-contribution-grid-snake.svg)
 
 
 ---
+
+
 ## Contact Me
 
 
